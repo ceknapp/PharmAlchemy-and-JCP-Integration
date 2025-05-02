@@ -1,0 +1,6 @@
+metadata_source,plate_name,metadata_well,metadata_jcp2022,compound_metadata_jcp2022,crispr_metadata_jcp2022,orf_metadata_jcp2022,perturbogen,Perturbation_Target_gene,Perturbation_Target_target_sequence
+sourceA,plate1,well1,JCP1,JCP11,JCP21,JCP31,Pert1,gene1,TGT1
+sourceA,plate2,well2,JCP2,JCP12,JCP22,JCP32,Pert2,gene2,TGT2
+sourceA,plate3,well3,JCP3,JCP13,JCP23,JCP33,Pert3,gene3,TGT3
+sourceA,plate4,well4,JCP4,JCP14,JCP24,JCP34,Pert4,gene4,TGT4
+sourceA,plate5,well5,JCP5,JCP15,JCP25,JCP35,Pert5,gene5,TGT5

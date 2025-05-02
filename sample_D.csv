@@ -1,0 +1,6 @@
+DS_ID,PHENOTYPE_ID,DO_ID,SIDER_ID,PHENOTYPE_NAME,PHENOTYPE_CLASS,DEFINITION
+DS1,PHEN1,1001,SIDER1,Increased cell size,ClassA,Definition of phenotype 1
+DS2,PHEN2,1002,SIDER2,Decreased viability,ClassB,Definition of phenotype 2
+DS3,PHEN3,1003,SIDER3,Morphological change,ClassA,Definition of phenotype 3
+DS4,PHEN4,1004,SIDER4,Increased cell size,ClassC,Definition of phenotype 4
+DS5,PHEN5,1005,SIDER5,Migration,ClassB,Definition of phenotype 5

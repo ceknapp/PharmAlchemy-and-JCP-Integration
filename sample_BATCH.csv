@@ -1,0 +1,6 @@
+batch_name,experiment_id,batch_description,num_images,Plate_assay_plate_barcode,Plate_plate_name
+batch1,exp1,Description 1,10,barcode1,plate1
+batch2,exp2,Description 2,20,barcode2,plate2
+batch3,exp3,Description 3,30,barcode3,plate3
+batch4,exp4,Description 4,40,barcode4,plate4
+batch5,exp5,Description 5,50,barcode5,plate5

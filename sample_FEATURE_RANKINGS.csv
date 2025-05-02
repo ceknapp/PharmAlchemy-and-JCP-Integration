@@ -1,0 +1,6 @@
+perturbation_type,cell_region,feature,channel,suffix,feature_significance,median,jcp2022_id,gene_compound_image,phenotypic_activity,gene_compound,resources
+typeA,region1,feature1,ch1,suf1,0.1,1.0,JCP1,image1.png,0.2,gene1,res1
+typeA,region1,feature2,ch1,suf2,0.2,2.0,JCP2,image2.png,0.4,gene2,res2
+typeA,region1,feature3,ch1,suf3,0.3,3.0,JCP3,image3.png,0.6,gene3,res3
+typeA,region1,feature4,ch1,suf4,0.4,4.0,JCP4,image4.png,0.8,gene4,res4
+typeA,region1,feature5,ch1,suf5,0.5,5.0,JCP5,image5.png,1.0,gene5,res5

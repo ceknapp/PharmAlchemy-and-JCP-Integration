@@ -1,0 +1,6 @@
+perturbation_type,gene_compound,match,gene_compound_image,match_image,perturbation_match_similarity,match_resources,jcp2022_id,match_jcp2022_id,phenotypic_activity,phenotypic_activity_match
+typeA,gene1,match1,image1.png,match_img1.png,0.1,res1,JCP1,JCP6,0.2,0.3
+typeA,gene2,match2,image2.png,match_img2.png,0.2,res2,JCP2,JCP7,0.4,0.6
+typeA,gene3,match3,image3.png,match_img3.png,0.3,res3,JCP3,JCP8,0.6,0.9
+typeA,gene4,match4,image4.png,match_img4.png,0.4,res4,JCP4,JCP9,0.8,1.2
+typeA,gene5,match5,image5.png,match_img5.png,0.5,res5,JCP5,JCP10,1.0,1.5

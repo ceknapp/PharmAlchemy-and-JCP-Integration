@@ -1,0 +1,6 @@
+plate_name,batch_name,plate_description,assay_plate_barcode,timepoint,perturbogen,pert_type,pert_time,control_type,cell_type,percent_replicating,feature_set,batch,WELL_metadata_jcp2022
+plate1,batch1,Desc plate1,barcode1,1h,Pert1,typeA,5m,ctrlA,A549,10.0,set1,batch1,JCP1
+plate2,batch2,Desc plate2,barcode2,2h,Pert2,typeA,10m,ctrlA,A549,20.0,set2,batch2,JCP2
+plate3,batch3,Desc plate3,barcode3,3h,Pert3,typeA,15m,ctrlA,A549,30.0,set3,batch3,JCP3
+plate4,batch4,Desc plate4,barcode4,4h,Pert4,typeA,20m,ctrlA,A549,40.0,set4,batch4,JCP4
+plate5,batch5,Desc plate5,barcode5,5h,Pert5,typeA,25m,ctrlA,A549,50.0,set5,batch5,JCP5

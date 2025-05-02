@@ -1,0 +1,6 @@
+experiment_id,plate_map_name,assay_plate_barcode,perturbogen,cell_type,timepoint,density,antibiotics,cell_line,time_delay,times_imaged,anomaly,number_of_images
+exp1,map1,barcode1,Pert1,A549,1h,1000,None,LineA,5m,1,No,20
+exp2,map2,barcode2,Pert2,A549,2h,2000,None,LineA,10m,2,No,40
+exp3,map3,barcode3,Pert3,A549,3h,3000,None,LineA,15m,3,No,60
+exp4,map4,barcode4,Pert4,A549,4h,4000,None,LineA,20m,4,No,80
+exp5,map5,barcode5,Pert5,A549,5h,5000,None,LineA,25m,5,No,100

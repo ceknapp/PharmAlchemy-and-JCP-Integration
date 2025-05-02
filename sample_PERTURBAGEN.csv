@@ -1,0 +1,6 @@
+metadata_jcp2022,well_id,perturbagen,metadata_symbol,metadata_ncbi_gene_id,metadata_inchi,metadata_inchikey,metadata_smiles,metadata_broad_sample,metadata_name,metadata_vector,metadata_prot_match,metadata_insert_length,metadata_taxon_id,metadata_transcript,metadata_gene_description
+JCP1,WELL1,Pert1,SYM1,NCBI1,InChI1,KEY1,CCO1,Sample1,Name1,Vec1,0.1,100,9606,TR1,Desc1
+JCP2,WELL2,Pert2,SYM2,NCBI2,InChI2,KEY2,CCO2,Sample2,Name2,Vec2,0.2,200,9606,TR2,Desc2
+JCP3,WELL3,Pert3,SYM3,NCBI3,InChI3,KEY3,CCO3,Sample3,Name3,Vec3,0.3,300,9606,TR3,Desc3
+JCP4,WELL4,Pert4,SYM4,NCBI4,InChI4,KEY4,CCO4,Sample4,Name4,Vec4,0.4,400,9606,TR4,Desc4
+JCP5,WELL5,Pert5,SYM5,NCBI5,InChI5,KEY5,CCO5,Sample5,Name5,Vec5,0.5,500,9606,TR5,Desc5

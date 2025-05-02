@@ -1,0 +1,6 @@
+broad_sample,inchikey,pert_name,pubchem_cid,perturbagen,gene,target_sequence,pert_type,control_type,smiles
+Sample1,KEY1,Pert1,CID1,Pert1,gene1,TGT1,typeA,ctrlA,CCO1
+Sample2,KEY2,Pert2,CID2,Pert2,gene2,TGT2,typeA,ctrlA,CCO2
+Sample3,KEY3,Pert3,CID3,Pert3,gene3,TGT3,typeA,ctrlA,CCO3
+Sample4,KEY4,Pert4,CID4,Pert4,gene4,TGT4,typeA,ctrlA,CCO4
+Sample5,KEY5,Pert5,CID5,Pert5,gene5,TGT5,typeA,ctrlA,CCO5

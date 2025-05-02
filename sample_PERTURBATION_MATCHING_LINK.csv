@@ -1,0 +1,6 @@
+perturbation_type,jcp2022_id,metadata_inchi,metadata_ncbi_gene_id,P2T_broad_sample,P2T_perturbogen,P2T_gene
+typeA,JCP1,InChI1,NCBI1,Sample1,Pert1,gene1
+typeA,JCP2,InChI2,NCBI2,Sample2,Pert2,gene2
+typeA,JCP3,InChI3,NCBI3,Sample3,Pert3,gene3
+typeA,JCP4,InChI4,NCBI4,Sample4,Pert4,gene4
+typeA,JCP5,InChI5,NCBI5,Sample5,Pert5,gene5
