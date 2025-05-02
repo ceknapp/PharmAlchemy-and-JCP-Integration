@@ -1,2 +1,4 @@
 # PharmAlchemy-and-JCP-Integration
 UAB INFO 603 Semester project. The goal of this project was to integrate the schemas of PharmAlchemy with the JUMP Cell Painting repository. 
+Abstract: 
+Cellular morphological changes provide insight to drug efficacy, target engagement, and other off-target effects which all impact drug development and discovery. The JUMP Cell painting (JCP) consortium focuses on morphological profiling of cells. The purpose of JCP is to study genetic and chemical arrangements of cells. To address the lack of cell morphological changes associated with genetic changes or compound target engagement, we created an integrated schema of the JCP and Pharm Alchemy schemas. By integrating JCP’s data into Pharm Alchemy, it allows queries about which compounds affect healthy morphology in disease models, or which genes drive cell  characteristic changes. 
